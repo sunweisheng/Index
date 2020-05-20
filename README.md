@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# 信息检索页
 
-You can use the [editor on GitHub](https://github.com/sunweisheng/Index/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Kvm
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [创建NAT网络虚拟机环境](https://github.com/sunweisheng/kvm/blob/master/Create-NAT-Cluster.md)
 
-### Markdown
+## Kubernetes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [安装Kubernetes V1.16.2](https://github.com/sunweisheng/Kubernetes/blob/master/Install.md)
+- [Kubernetes V1.16.2部署Dashboard V2.0(beta5)](https://github.com/sunweisheng/Kubernetes/blob/master/Kubernetes-Dashboard.md)
+- [安装Kubernetes V1.18.2](https://github.com/sunweisheng/Kubernetes/blob/master/Install-182.md)
+- [Kubernetes V1.18.2部署Dashboard V2.0](https://github.com/sunweisheng/Kubernetes/blob/master/Kubernetes-182-Dashboard.md)
+- [在K8S集群中使用NGINX Ingress V1.7](https://github.com/sunweisheng/Kubernetes/blob/master/Nginx-Ingress-Install.md)
 
-```markdown
-Syntax highlighted code block
+## MikroTik RouterOS
 
-# Header 1
-## Header 2
-### Header 3
+- [MikroTik RouterOS路由器创建L2TP隧道客户端并根据IP列表进行分流](https://github.com/sunweisheng/RouterOS/blob/master/RouterOS-L2TP-Client.md)
 
-- Bulleted
-- List
+## Spring Cloud
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunweisheng/Index/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [创建一个测试用的微服务项目](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-provider/CreateProject.md)
+- [安装Consul服务中心](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-consul-client/InstallConsul.md)
+- [注册服务到服务中心（Consul）](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-provider/RegistrationService.md)
+- [创建调用Consul的客户端项目](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-consul-client/CreateProject.md)
+- [调用Consul服务（消费服务）](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-consul-client/ConsumerService.md)
+- [创建网关项目](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-gateway/CreateProject.md)
+- [Spring Cloud Gateway注册到服务器中心(Consul)](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-gateway/RegisteredConsul.md)
+- [网关中加入熔断机制](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-gateway/Fuse.md)
+- [Consul集群Server模式](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-consul-client/ConsulClusterServerMode.md)
+- [Consul集群Server+Client模式](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-consul-client/ConsulClusterServerClientMode.md)
+- [Consul集群加入网关服务](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-gateway/ConsulClusterServerClientGatewayMode.md)
+- [创建配置中心服务端](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-config-server/ConfigServer.md)
+- [创建客户端项目并读取服务化的配置中心](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-config-server/ConfigClient.md)
+- [手动刷新客户端配置内容](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-config-server/ManualRefresh.md)
+- [通过总线机制实现自动刷新客户端配置](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-config-server/AutoRefresh.md)
+- [细聊Spring Cloud Bus](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-bus/README.md)
+- [Spring Cloud Stream](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-stream/README.md)
