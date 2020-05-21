@@ -35,3 +35,7 @@
 - [通过总线机制实现自动刷新客户端配置](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-config-server/AutoRefresh.md)
 - [细聊Spring Cloud Bus](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-bus/README.md)
 - [Spring Cloud Stream](https://github.com/sunweisheng/spring-cloud-example/blob/master/spring-cloud-stream/README.md)
+
+## MySQL
+
+- [安装MySQL数据库5.7版本](https://github.com/sunweisheng/MySQL/blob/master/Install-5.7.md)
