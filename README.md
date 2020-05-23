@@ -2,7 +2,10 @@
 
 ## Kvm
 
+- [MacOS下制作CentOS系统USB安装盘](https://github.com/sunweisheng/kvm/blob/master/Make-Boot-Disk.md)
 - [创建NAT网络虚拟机环境](https://github.com/sunweisheng/kvm/blob/master/Create-NAT-Cluster.md)
+- [安装Java1.8](https://github.com/sunweisheng/kvm/blob/master/Install-Java-18.md)
+- [搭建Nexus Repository包管理系统](https://github.com/sunweisheng/kvm/blob/master/Nexus-Repository.md)
 
 ## Kubernetes
 
