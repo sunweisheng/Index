@@ -7,6 +7,7 @@
 - [搭建Nexus Repository包管理系统](https://github.com/sunweisheng/kvm/blob/master/Nexus-Repository.md)
 - [创建NAT网络虚拟机环境](https://github.com/sunweisheng/kvm/blob/master/Create-NAT-Cluster.md)
 - [硬盘分区格式化和挂载](https://github.com/sunweisheng/kvm/blob/master/Mount-Large-HardDrive.md)
+- [安装 Nginx](https://github.com/sunweisheng/kvm/blob/master/Install-Nginx.md)
 
 ## Kubernetes
 
@@ -43,3 +44,7 @@
 ## MySQL
 
 - [安装MySQL数据库5.7版本](https://github.com/sunweisheng/MySQL/blob/master/Install-5.7.md)
+
+## Jenkins
+
+-[安装 Jenkins](https://github.com/sunweisheng/Jenkins/blob/master/Install-Jenkins.md)
