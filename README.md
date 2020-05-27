@@ -47,4 +47,5 @@
 
 ## Jenkins
 
--[安装 Jenkins](https://github.com/sunweisheng/Jenkins/blob/master/Install-Jenkins.md)
+- [安装 Jenkins](https://github.com/sunweisheng/Jenkins/blob/master/Install-Jenkins.md)
+- [Jenkins的kubernetes-plugin使用方法](https://github.com/sunweisheng/Jenkins/blob/master/Jenkins-Kubernetes.md)
