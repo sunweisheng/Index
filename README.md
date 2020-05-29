@@ -49,3 +49,4 @@
 
 - [安装 Jenkins](https://github.com/sunweisheng/Jenkins/blob/master/Install-Jenkins.md)
 - [Jenkins的kubernetes-plugin使用方法](https://github.com/sunweisheng/Jenkins/blob/master/Jenkins-Kubernetes.md)
+- [Jenkins在Pod中实现Docker in Docker并用kubectl进行部署](https://github.com/sunweisheng/Jenkins/blob/master/Docker-In-Docker-Kubectl.md)
