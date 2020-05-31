@@ -8,6 +8,7 @@
 - [创建NAT网络虚拟机环境](https://github.com/sunweisheng/kvm/blob/master/Create-NAT-Cluster.md)
 - [硬盘分区格式化和挂载](https://github.com/sunweisheng/kvm/blob/master/Mount-Large-HardDrive.md)
 - [安装 Nginx](https://github.com/sunweisheng/kvm/blob/master/Install-Nginx.md)
+- [安装 Gitlab](https://github.com/sunweisheng/kvm/blob/master/Install-Gitlab.md)
 
 ## Kubernetes
 
