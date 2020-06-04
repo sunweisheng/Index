@@ -9,6 +9,7 @@
 - [硬盘分区格式化和挂载](https://github.com/sunweisheng/kvm/blob/master/Mount-Large-HardDrive.md)
 - [安装 Nginx](https://github.com/sunweisheng/kvm/blob/master/Install-Nginx.md)
 - [安装 Gitlab](https://github.com/sunweisheng/kvm/blob/master/Install-Gitlab.md)
+- [创建Windows 2008 R2虚拟机](https://github.com/sunweisheng/kvm/blob/master/Create-win2008R2.md)
 
 ## Kubernetes
 
