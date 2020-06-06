@@ -6,6 +6,7 @@
 - [安装Java1.8](https://github.com/sunweisheng/kvm/blob/master/Install-Java-18.md)
 - [搭建Nexus Repository包管理系统](https://github.com/sunweisheng/kvm/blob/master/Nexus-Repository.md)
 - [创建NAT网络虚拟机环境](https://github.com/sunweisheng/kvm/blob/master/Create-NAT-Cluster.md)
+- [创建Bridge网络虚拟机环境](https://github.com/sunweisheng/kvm/blob/master/Create-Bridge-Cluster.md)
 - [硬盘分区格式化和挂载](https://github.com/sunweisheng/kvm/blob/master/Mount-Large-HardDrive.md)
 - [安装 Nginx](https://github.com/sunweisheng/kvm/blob/master/Install-Nginx.md)
 - [安装 Gitlab](https://github.com/sunweisheng/kvm/blob/master/Install-Gitlab.md)
