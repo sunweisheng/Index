@@ -53,3 +53,6 @@
 - [安装 Jenkins](https://github.com/sunweisheng/Jenkins/blob/master/Install-Jenkins.md)
 - [Jenkins的kubernetes-plugin使用方法](https://github.com/sunweisheng/Jenkins/blob/master/Jenkins-Kubernetes.md)
 - [Jenkins在Pod中实现Docker in Docker并用kubectl进行部署](https://github.com/sunweisheng/Jenkins/blob/master/Docker-In-Docker-Kubectl.md)
+- [安装 Maven](https://github.com/sunweisheng/Jenkins/blob/master/Install-Maven.md)
+- [安装 Gradle](https://github.com/sunweisheng/Jenkins/blob/master/Install-Gradle.md)
+- [安装 Groovy](https://github.com/sunweisheng/Jenkins/blob/master/Install-Groovy.md)
