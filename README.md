@@ -2,15 +2,15 @@
 
 ## Kvm
 
-- [MacOS下制作CentOS系统USB安装盘](https://github.com/sunweisheng/kvm/blob/master/Make-Boot-Disk.md)
-- [安装Java1.8](https://github.com/sunweisheng/kvm/blob/master/Install-Java-18.md)
-- [搭建Nexus Repository包管理系统](https://github.com/sunweisheng/kvm/blob/master/Nexus-Repository.md)
-- [创建NAT网络虚拟机环境](https://github.com/sunweisheng/kvm/blob/master/Create-NAT-Cluster.md)
-- [创建Bridge网络虚拟机环境](https://github.com/sunweisheng/kvm/blob/master/Create-Bridge-Cluster.md)
-- [硬盘分区格式化和挂载](https://github.com/sunweisheng/kvm/blob/master/Mount-Large-HardDrive.md)
-- [安装 Nginx](https://github.com/sunweisheng/kvm/blob/master/Install-Nginx.md)
-- [安装 Gitlab](https://github.com/sunweisheng/kvm/blob/master/Install-Gitlab.md)
-- [创建Windows 2008 R2虚拟机](https://github.com/sunweisheng/kvm/blob/master/Create-win2008R2.md)
+- [MacOS下制作CentOS系统USB安装盘](https://github.com/sunweisheng/Kvm/blob/master/Make-Boot-Disk.md)
+- [安装Java1.8](https://github.com/sunweisheng/Kvm/blob/master/Install-Java-18.md)
+- [搭建Nexus Repository包管理系统](https://github.com/sunweisheng/Kvm/blob/master/Nexus-Repository.md)
+- [创建NAT网络虚拟机环境](https://github.com/sunweisheng/Kvm/blob/master/Create-NAT-Cluster.md)
+- [创建Bridge网络虚拟机环境](https://github.com/sunweisheng/Kvm/blob/master/Create-Bridge-Cluster.md)
+- [硬盘分区格式化和挂载](https://github.com/sunweisheng/Kvm/blob/master/Mount-Large-HardDrive.md)
+- [安装 Nginx](https://github.com/sunweisheng/Kvm/blob/master/Install-Nginx.md)
+- [安装 Gitlab](https://github.com/sunweisheng/Kvm/blob/master/Install-Gitlab.md)
+- [创建Windows 2008 R2虚拟机](https://github.com/sunweisheng/Kvm/blob/master/Create-win2008R2.md)
 
 ## Kubernetes
 
