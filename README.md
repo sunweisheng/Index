@@ -56,3 +56,4 @@
 - [安装 Maven](https://github.com/sunweisheng/Jenkins/blob/master/Install-Maven.md)
 - [安装 Gradle](https://github.com/sunweisheng/Jenkins/blob/master/Install-Gradle.md)
 - [安装 Groovy](https://github.com/sunweisheng/Jenkins/blob/master/Install-Groovy.md)
+- [创建Jenkins的Slave服务器](https://github.com/sunweisheng/Jenkins/blob/master/Jenkins-Slave.md)
