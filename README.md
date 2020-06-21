@@ -58,3 +58,4 @@
 - [安装 Groovy](https://github.com/sunweisheng/Jenkins/blob/master/Install-Groovy.md)
 - [创建Jenkins的Slave服务器](https://github.com/sunweisheng/Jenkins/blob/master/Jenkins-Slave.md)
 - [Jenkins插件开发](https://github.com/sunweisheng/Jenkins/blob/master/Plug-in-Dev.md)
+- [安装SonarQube 8.3版本](https://github.com/sunweisheng/Jenkins/blob/master/Install-SonarQube-8.3.md)
