@@ -57,6 +57,7 @@
 - [安装 Maven](https://github.com/sunweisheng/Jenkins/blob/master/Install-Maven.md)
 - [安装 Gradle](https://github.com/sunweisheng/Jenkins/blob/master/Install-Gradle.md)
 - [安装 Groovy](https://github.com/sunweisheng/Jenkins/blob/master/Install-Groovy.md)
+- [安装 Nodejs](https://github.com/sunweisheng/Jenkins/blob/master/Install-Nodejs.md)
 - [创建Jenkins的Slave服务器](https://github.com/sunweisheng/Jenkins/blob/master/Jenkins-Slave.md)
 - [Jenkins插件开发](https://github.com/sunweisheng/Jenkins/blob/master/Plug-in-Dev.md)
 - [安装SonarQube 8.3版本](https://github.com/sunweisheng/Jenkins/blob/master/Install-SonarQube-8.3.md)
