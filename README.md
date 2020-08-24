@@ -62,3 +62,4 @@
 - [Jenkins插件开发](https://github.com/sunweisheng/Jenkins/blob/master/Plug-in-Dev.md)
 - [安装SonarQube 8.3版本](https://github.com/sunweisheng/Jenkins/blob/master/Install-SonarQube-8.3.md)
 - [创建Global Shared Library项目](https://github.com/sunweisheng/Jenkins/blob/master/Global-Shared-Library.md)
+- [Jenkins Json Build 项目](https://github.com/sunweisheng/jenkins-json-build)
