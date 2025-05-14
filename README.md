@@ -11,6 +11,7 @@
 - [安装 Nginx](https://github.com/sunweisheng/Kvm/blob/master/Install-Nginx.md)
 - [安装 Gitlab](https://github.com/sunweisheng/Kvm/blob/master/Install-Gitlab.md)
 - [创建Windows 2008 R2虚拟机](https://github.com/sunweisheng/Kvm/blob/master/Create-win2008R2.md)
+- [Ubuntu下用KVM搭建Bridge网络虚拟机环境](https://github.com/sunweisheng/Kvm/blob/master/Ubuntu-KVM-Bridge.md)
 
 ## Kubernetes
 
