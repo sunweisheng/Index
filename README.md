@@ -22,6 +22,7 @@
 - [在K8S集群中使用NGINX Ingress V1.7](https://github.com/sunweisheng/Kubernetes/blob/master/Nginx-Ingress-Install.md)
 - [Kubernetes配置文件示例](https://github.com/sunweisheng/Kubernetes/blob/master/Kubernetes-Configuration.md)
 - [在Ubuntu Server中部署MicroK8s-1.30版本](https://github.com/sunweisheng/Kubernetes/blob/master/Ubuntu-Microk8s-13.md)
+- [Ubuntu Server 安装配置Kubernetes 1.30版本](https://github.com/sunweisheng/Kubernetes/blob/master/Ubunut-K8s-130.md)
 
 ## MikroTik RouterOS
 
